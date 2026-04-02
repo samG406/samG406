@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Full-stack developer. I design and build software that’s fast, resilient, and easy to use. My focus is on shaping clear architectures, simplifying complex flows, and delivering features that work reliably at scale. I take ideas from concept to production, improve the performance of what already exists, and make sure systems grow without breaking. My work is driven by clarity, careful thinking, and full ownership of the product from start to finish.</p>
+<p align="left">I'm a UI Focused Full-stack developer. I design and build software that’s fast, resilient, and easy to use. My focus is on shaping clear architectures, simplifying complex flows, and delivering features that work reliably at scale. I take ideas from concept to production, improve the performance of what already exists, and make sure systems grow without breaking. My work is driven by clarity, careful thinking, and full ownership of the product from start to finish.</p>
 
 ###
 
